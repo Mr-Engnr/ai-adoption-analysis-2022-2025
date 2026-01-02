@@ -148,10 +148,15 @@ Developer experience, AI sentiment, remote work status, and role strongly influe
 ## 📁 Repository Structure
 
 ├── data/ # Cleaned survey datasets
+
 ├── notebooks/ # EDA & ML notebooks
+
 ├── visuals/ # Generated charts & figures
+
 ├── presentation/ # Final PPT slides
+
 ├── README.md
+
 └── LICENSE
 
 
