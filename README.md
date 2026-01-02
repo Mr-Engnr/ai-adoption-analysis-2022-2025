@@ -1,11 +1,11 @@
 # AI Adoption Journey in Software Development (2022–2025)
-📌 Overview
+##📌 Overview
 
 This project analyzes how software developers have adopted, perceived, and adapted to AI tools over time, using data from the Stack Overflow Developer Surveys (2022–2025).
 
 The goal is to move beyond hype and fear, and understand real developer behavior — how AI usage evolved, what developers use AI for, how they feel about it, and whether AI adoption can be predicted using machine learning.
 
-🎯 Objectives
+##🎯 Objectives
 
 This study aims to:
 
@@ -19,7 +19,7 @@ Examine AI’s impact on work patterns, salary, and job satisfaction
 
 Build machine learning models to predict AI usage
 
-📊 Dataset
+##📊 Dataset
 
 Source: Stack Overflow Developer Surveys (2022–2025)
 
@@ -29,7 +29,7 @@ Target Variable: UsesAI (whether a developer uses AI tools)
 
 Due to changes in survey structure across years, data was cleaned and harmonized to enable meaningful comparisons.
 
-🔍 Methodology
+##🔍 Methodology
 
 The analysis follows an end-to-end data analytics workflow:
 
@@ -61,7 +61,7 @@ Predict AI usage using developer profile data
 
 Compare multiple classification models
 
-🤖 Machine Learning Models
+##🤖 Machine Learning Models
 
 Two models were trained and evaluated:
 
@@ -77,7 +77,7 @@ Captures non-linear patterns
 
 Used to validate robustness and performance
 
-🔑 Input Features
+##🔑 Input Features
 
 Experience (YearsCode)
 
@@ -91,13 +91,13 @@ AI sentiment score
 
 Education level
 
-📈 Performance (Approx.)
+##📈 Performance (Approx.)
 
 Accuracy: ~80%
 
 Key Insight: AI adoption is predictable, not random
 
-📌 Key Insights
+##📌 Key Insights
 
 AI adoption accelerated sharply during 2023–2024
 
@@ -111,14 +111,14 @@ AI users report slightly higher job satisfaction
 
 By 2025, developers show a mature, selective approach, especially toward AI agents
 
-🧠 Final Conclusion
+##🧠 Final Conclusion
 
 AI has not replaced developers.
 It has become a trusted productivity layer, and developers are adapting with confidence — not fear.
 
 This project demonstrates how data analytics and machine learning can be combined with clear storytelling to generate practical, real-world insights.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 Python
 
@@ -130,7 +130,7 @@ Scikit-learn
 
 Jupyter Notebook
 
-📁 Repository Structure
+##📁 Repository Structure
 ai-adoption-analysis-2022-2025/
 │
 
@@ -147,7 +147,7 @@ ai-adoption-analysis-2022-2025/
 ├── README.md
 
 
-🚀 How to Use
+##🚀 How to Use
 
 Clone the repository
 
@@ -155,6 +155,6 @@ Open analysis.ipynb to explore the analysis and models
 
 View presentation.pdf for the executive-style summary
 
-📬 Contact
+##📬 Contact
 
 If you’d like to discuss this project or collaborate, feel free to connect with me on LinkedIn or explore my portfolio.
