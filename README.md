@@ -10,16 +10,23 @@ The goal is to move beyond hype and fear, and understand real developer behavior
 This study aims to:
 
 Track AI adoption trends among developers from 2022 to 2025
+
 Identify which developer profiles are most likely to use AI
+
 Analyze developer sentiment and perceived threat toward AI
+
 Examine AI’s impact on work patterns, salary, and job satisfaction
+
 Build machine learning models to predict AI usage
 
 📊 Dataset
 
 Source: Stack Overflow Developer Surveys (2022–2025)
+
 Participants: Global software developers across roles, experience levels, and regions
+
 Target Variable: UsesAI (whether a developer uses AI tools)
+
 Due to changes in survey structure across years, data was cleaned and harmonized to enable meaningful comparisons.
 
 🔍 Methodology
@@ -27,18 +34,31 @@ Due to changes in survey structure across years, data was cleaned and harmonized
 The analysis follows an end-to-end data analytics workflow:
 
 Data Cleaning & Harmonization
+
 Standardized columns across years
+
 Handled missing values and inconsistent labels
+
 Exploratory Data Analysis (EDA)
+
 AI adoption trends over time
+
 Developer sentiment and threat perception
+
 Primary AI use cases
+
 Impact on work style and job satisfaction
+
 Trend & Comparative Analysis
+
 Year-by-year comparison (2022 → 2025)
+
 Adoption acceleration and maturity phases
+
 Machine Learning Modeling
+
 Predict AI usage using developer profile data
+
 Compare multiple classification models
 
 🤖 Machine Learning Models
@@ -113,12 +133,19 @@ Jupyter Notebook
 📁 Repository Structure
 ai-adoption-analysis-2022-2025/
 │
+
 ├── notebooks/
+
 │   └── analysis.ipynb
+
 ├── plots/
+
 │   └── slide_charts/
+
 ├── presentation.pdf
+
 ├── README.md
+
 
 🚀 How to Use
 
